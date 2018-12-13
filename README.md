@@ -1,1 +1,2 @@
-# Lab-Safety-App-New
+# unity-lab-safe
+Unity lab safety project
