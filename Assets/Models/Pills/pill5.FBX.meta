@@ -1,0 +1,191 @@
+fileFormatVersion: 2
+guid: 06d4ebaa2c98ffe43b737e0dd465212c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: beaker2
+    100002: beakerempty
+    100004: beakerempty001
+    100006: beakeremptysmooth2
+    100008: Box001
+    100010: chemical fill
+    100012: chemical fill001
+    100014: Cylinder001
+    100016: pill007
+    100018: pill008
+    100020: pill009
+    100022: pill00onceagain
+    100024: pill010
+    100026: pill1
+    100028: pill2
+    100030: pill2.002
+    100032: pill2.1
+    100034: pill3
+    100036: pill4
+    100038: //RootNode
+    100040: pill5
+    400000: beaker2
+    400002: beakerempty
+    400004: beakerempty001
+    400006: beakeremptysmooth2
+    400008: Box001
+    400010: chemical fill
+    400012: chemical fill001
+    400014: Cylinder001
+    400016: pill007
+    400018: pill008
+    400020: pill009
+    400022: pill00onceagain
+    400024: pill010
+    400026: pill1
+    400028: pill2
+    400030: pill2.002
+    400032: pill2.1
+    400034: pill3
+    400036: pill4
+    400038: pill5
+    400040: //RootNode
+    2100000: No Name
+    2300000: beaker2
+    2300002: beakerempty
+    2300004: beakerempty001
+    2300006: beakeremptysmooth2
+    2300008: Box001
+    2300010: chemical fill
+    2300012: chemical fill001
+    2300014: Cylinder001
+    2300016: pill007
+    2300018: pill008
+    2300020: pill009
+    2300022: pill00onceagain
+    2300024: pill010
+    2300026: pill1
+    2300028: pill2
+    2300030: pill2.002
+    2300032: pill2.1
+    2300034: pill3
+    2300036: pill4
+    2300038: pill5
+    3300000: beaker2
+    3300002: beakerempty
+    3300004: beakerempty001
+    3300006: beakeremptysmooth2
+    3300008: Box001
+    3300010: chemical fill
+    3300012: chemical fill001
+    3300014: Cylinder001
+    3300016: pill007
+    3300018: pill008
+    3300020: pill009
+    3300022: pill00onceagain
+    3300024: pill010
+    3300026: pill1
+    3300028: pill2
+    3300030: pill2.002
+    3300032: pill2.1
+    3300034: pill3
+    3300036: pill4
+    3300038: pill5
+    4300000: Box001
+    4300002: beakerempty
+    4300004: beakeremptysmooth2
+    4300006: chemical fill
+    4300008: beakerempty001
+    4300010: pill1
+    4300012: pill2
+    4300014: pill2.1
+    4300016: pill3
+    4300018: pill4
+    4300020: pill5
+    4300022: pill00onceagain
+    4300024: pill007
+    4300026: pill2.002
+    4300028: pill008
+    4300030: pill009
+    4300032: pill010
+    4300034: Cylinder001
+    4300036: beaker2
+    4300038: chemical fill001
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
