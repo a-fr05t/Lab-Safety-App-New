@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Cylinder : MonoBehaviour {
-	
+public class Options : MonoBehaviour {
+
 	public GameObject options;
 
 
@@ -30,12 +30,12 @@ public class Cylinder : MonoBehaviour {
 			options.SetActive (false);
 		}
 	}
-		
+
 	/*
 	void OnCollisionEnter(Collision other)
 	{
 		do something (mixing results);
 	}
 	*/
-
 }
+
