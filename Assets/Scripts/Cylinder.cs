@@ -3,20 +3,21 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Cylinder : MonoBehaviour {
-	
+
 	public GameObject options;
 
-
-	// On right click the items menu object will become active and be displayed (toggle)
-	// Dragging object with left click is controlled by MouseDrag script
-	void OnMouseOver()
+	void Update()
 	{
-		if (Input.GetMouseButtonDown(1))
+		if (Input.GetKeyDown(KeyCode.Space))
 		{
-			ShowOptions ();
+			ShowOptions();
 		}
 	}
 
+	void OnMouseDown()
+	{
+		ShowOptions ();
+	}
 
 	public void ShowOptions()
 	{
@@ -30,12 +31,4 @@ public class Cylinder : MonoBehaviour {
 			options.SetActive (false);
 		}
 	}
-		
-	/*
-	void OnCollisionEnter(Collision other)
-	{
-		do something (mixing results);
-	}
-	*/
-
 }
